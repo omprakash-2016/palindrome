@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    padding-top: 100px;
+    background-image: url(./neon.jpg);
+}
+h1{
+    color: gold;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+.mylabel{
+    color:honeydew;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    
+}
